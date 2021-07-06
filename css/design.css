@@ -1,0 +1,36 @@
+div{
+  width: 50px;
+  height: 50px;
+}
+.box-a{
+  background-color:#66BFBF;
+  border: solid 5px;
+}
+.box-b{
+  background-color: #dc143c;;
+  border: dashed 5px;
+}
+.box-c{
+  background-color: #E4F9F5;
+  border: double 5px;
+}
+.box-d{
+  background-color: yellow;
+  border: dotted 5px;
+}
+.box-e{
+  background-color: cyan;
+  border: inset 5px;
+}
+.box-f{
+  background-color: orange;
+  border: outset 5px;
+}
+.box-g{
+  background-color: gold;
+  border: groove 5px;
+}
+.box-h{
+  background-color: fuchsia;
+  border: ridge 5px;
+}
